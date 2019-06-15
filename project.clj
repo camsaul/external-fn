@@ -1,4 +1,4 @@
-(defproject camsaul/external-fn "1.0.0"
+(defproject camsaul/external-fn "1.0.1-SNAPSHOT"
   :description "Shared things used across several Metabase projects, such as i18n and config."
   :url "https://github.com/camsaul/external-fn"
   :min-lein-version "2.5.0"
