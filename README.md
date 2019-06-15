@@ -15,7 +15,7 @@ This resulting object works exactly like a normal Clojure function, but will thr
 an instance has been provided:
 
 ```clj
-(require '[external-fn.core :as external-fn])
+(require '[external-function.core :as external-fn])
 
 (def f (external-fn/external-fn))
 
