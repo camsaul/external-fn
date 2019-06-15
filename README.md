@@ -7,7 +7,7 @@
 [![Clojars Project](https://clojars.org/camsaul/external-fn/latest-version.svg)](http://clojars.org/camsaul/external-fn)
 
 A small Clojure utility library for defining abstract functions whose implementation will be provided elsewhere
-(perhaps externally), or for defining methods. Useful for dependency injection and otherwise nicely
+(perhaps externally). Useful for dependency injection and otherwise nicely
 decoupling different modules of your project from one another.
 
 This library provides a function, `external-fn`, that you can use to create an externally-defined function.
